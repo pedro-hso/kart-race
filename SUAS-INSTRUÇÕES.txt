@@ -1,3 +1,9 @@
+Solução desenvolvida em Java
+
+Instruções:
+
+É necessário especificar o caminho do arquivo de log na linha de comando chamada
+
 Formato de saída do resultado da corrida:
 
 Posição de chegada
