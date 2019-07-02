@@ -1,1 +1,20 @@
+Formato de saída do resultado da corrida:
 
+Posição de chegada
+Código do piloto
+Nome do piloto
+Voltas completadas
+Tempo total de prova
+Número da melhor volta
+Velocidade média na prova
+Tempo da melhor volta
+Tempo que cada piloto chegou após o vencedor
+
+Formato de saída da melhor volta:
+
+Hora
+Número do Piloto
+Nome do Piloto
+Número da Melhor Volta
+Tempo da Melhor da Volta
+Velocidade Média da Volta
